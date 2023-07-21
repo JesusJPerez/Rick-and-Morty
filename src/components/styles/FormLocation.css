@@ -1,0 +1,26 @@
+.sumit {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+}
+
+.sumit__btn {
+  text-align: center;
+  background: #1f2937;
+  color: white;
+  border: none;
+  width: 5em;
+  height: 2.3em;
+  border-radius: 0 1em 1em 0;
+  margin-left: 0.5em;
+
+}
+
+.sumit__imput {
+  width: 20em;
+  height: 2.5em;
+  border-radius: 1em 0 0 1em;
+}
+
+

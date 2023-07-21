@@ -1,0 +1,28 @@
+.info{
+    margin: 0 auto;
+    text-align: center;
+    background-color: var(--bg-card);
+    color: aliceblue;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 0.8rem;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     padding: 15px;
+}
+
+.container-lis{
+    display: flex;
+    justify-content: space-around;
+}
+
+.lis{
+    display: flex;
+    flex-direction: column;
+}
+
+.lis-int{
+    padding: 0.5em;
+    font-weight: bold;
+    color: rgb(22, 233, 222);
+}
